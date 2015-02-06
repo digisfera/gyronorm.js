@@ -1,0 +1,18 @@
+{
+  "name": "gyronorm",
+  "version": "1.0.3",
+  "description": "Accesses the gyroscope and accelerometer data from the web browser and combines them in one JS object.",
+  "main": "gyronorm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dorukeker/gyronorm.js.git"
+  },
+  "author": "Doruk Eker",
+  "bugs": {
+    "url": "https://github.com/dorukeker/gyronorm.js/issues"
+  },
+  "homepage": "https://github.com/dorukeker/gyronorm.js"
+}
